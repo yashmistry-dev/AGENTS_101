@@ -1,3 +1,8 @@
 openai-agents
 python-dotenv
 requests
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-openai
+langchain-community
+tavily-python
